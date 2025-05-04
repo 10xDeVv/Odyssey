@@ -1,4 +1,4 @@
-# 🌍 Odyssey – JavaFX Login & Signup UI
+# 🌍 Odyssey – JavaFX User Authentication application
 
 **Odyssey** is a sleek, modern travel themed JavaFX application featuring animated transitions, a looping video background, and a fully functional login/signup interface backed by a Spring Boot REST API.
 
